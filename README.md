@@ -7,12 +7,12 @@
 
 ### My latest projects
 
-<a href="https://github.com/dirbs/DIRBS-View-Frontend">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=danishsarwar99&repo=DIRBS-View-Frontend" alt="DIRBS-View-Frontend" />
-</a>
-
 <a href="https://github.com/danishsarwar99/reverse-search">
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=danishsarwar99&repo=reverse-search" alt="reverse-search" />
+</a>
+
+<a href="https://github.com/danishsarwar99//react-redux-node-auth-starter">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=danishsarwar99&repo=react-redux-node-auth-starter" alt="react-redux-node-auth-starter" />
 </a>
 
 ### ☕ Get in touch
@@ -25,7 +25,7 @@
 
 ### Recently I'm coding in...
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/danishsarwar99?history_days=30)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/danishsarwar999?history_days=30)
 
 <br>
 <br>
