@@ -16,7 +16,7 @@
 </a>
 
 ### ☕ Get in touch
-- Gmail: <a href = "#">danish@3gca.org</a>
+- Email Address: <a href = "#">danish@3gca.org</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/danishsarwar/">danishsarwar</a>
 - Twitter: <a href = "https://twitter.com/danysarwar">Danish Sarwar</a>
 
